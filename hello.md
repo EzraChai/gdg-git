@@ -12,5 +12,9 @@ Here's new message.
 - git commit -m " "
 - git restore .
 - git status
+<<<<<<< HEAD
 - git reset [#hash] --
+=======
+- git reset [#hash]
+>>>>>>> d719736 (added new commands git reset and git log)
 - git log --oneline
