@@ -16,7 +16,8 @@ There is an event about git just for the GDG members.
 - git branch
 - git merge
 - git branch -d [name-of-the-branch]
-- git stash (temporarily save changes in your working directory without committing them)(kinda hard to understand)
+- git stash (temporarily save changes in your working directory without committing them)
+- git stash apply
 
 ### Here's some message from branch dev
 
