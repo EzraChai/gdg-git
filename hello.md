@@ -10,4 +10,5 @@ Here's new message.
 - git init
 - git add .
 - git commit -m " "
-- git restore
+- git restore .
+- git status
