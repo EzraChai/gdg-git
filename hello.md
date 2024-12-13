@@ -12,3 +12,5 @@ Here's new message.
 - git commit -m " "
 - git restore .
 - git status
+- git reset [#hash] --
+- git log --oneline
