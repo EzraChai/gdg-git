@@ -13,5 +13,6 @@ There is an event about git just for the GDG members.
 - git reset --hard [#hash]
 - git log --oneline
 - git branch [name-of-the-branch]
+- git branch
 
 ### Here's some message from branch dev
