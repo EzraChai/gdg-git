@@ -14,6 +14,7 @@ There is an event about git just for the GDG members.
 - git log --oneline
 - git branch [name-of-the-branch]
 - git branch
+- git merge
 
 ### Here's some message from branch dev
 
