@@ -16,3 +16,5 @@ There is an event about git just for the GDG members.
 - git branch
 
 ### Here's some message from branch dev
+
+I added some new feature in feature-2 branch
