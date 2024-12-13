@@ -12,3 +12,5 @@ There is an event about git just for the GDG members.
 - git status
 - git reset --hard [#hash]
 - git log --oneline
+
+Here's some message from develop branch
